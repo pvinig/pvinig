@@ -1,4 +1,4 @@
-Ola, sou @pvinig
+Ola, sou Vinicius
 Graduando em Engenharia De Software na PUCRS em Porto Alegre.
 Apenas mais um entusiasta em tecnologia tentando fazer a diferenca.
 Estou comecando minha jornada em programacao com uma base solida em Fisica e Calculo.
