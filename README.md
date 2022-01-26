@@ -1,4 +1,4 @@
-# So... who i am?
+# So... who am i?
 Hi!, i`m Vinicius 😬, from Porto Alegre/Brasil
 
 Back-End Software Developer, work with Node.js mainly
