@@ -1,8 +1,8 @@
 # So... who am i?
 Hi!, i`m Vinicius 😬, from Porto Alegre/Brasil
 
-Back-End Software Developer, work with Node.js mainly
-also someTimes code forFun _C++_ at Arduino
+Back-End Software Developer, work with .net core mainly
+also like to code with Python and TypeScript.
 
 ![](https://64.media.tumblr.com/5f6e3ba82d2c5fcff867d13c7cab16a9/tumblr_inline_nzpwj3EB2k1ro2d43_500.gifv)
 
