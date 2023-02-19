@@ -1,9 +1,10 @@
 # So... who am i?
 Hi!, i`m Vinicius 😬, from Porto Alegre/Brasil
 
-Back-End Software Developer, since 2020 working with IT.  
+Back-End Software Developer, since 2020 working with IT. 
 Actually i work as freelancer developer, the hardest challenge of my carrer.  
-I could consider myself as full stack developer if i wasn`t color blind hahaha    
+I could consider myself as full stack developer if i wasn`t color blind hahaha 
+i most use C# , Python and TypeScript (Vue.js)  
 science lover  
 main jinx  
 look like r2d2 if i have to talk in public  
