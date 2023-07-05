@@ -5,8 +5,8 @@ Full-Stack Software Engineer with a slight preferece for the back-end side.
 naturally curious, my interests lie at the intersection of software & data engineering, astrophyscis and shared knowledge.
 
 something aboute me:
-- Tech: 3 years experience of coding WebApps. stacks i`ve used and like it, fastApi(python), entityframework(.net, c#), vuejs(typescript), cloud(aws, azure), db(sql, mysql, mongo).
-- Random: undergraduate student of [Astrophysics](https://www.space.com/26218-astrophysics.html) at [ufrgs](http://www.ufrgs.br/ufrgs/inicial).
+- **Tech**: 3 years experience of coding WebApps. stacks i`ve used and like it, fastApi(python), entityframework(.net, c#), vuejs(typescript), cloud(aws, azure), db(sql, mysql, mongo).
+- **Curiosity**: undergraduate student of [Astrophysics](https://www.space.com/26218-astrophysics.html) at [ufrgs](http://www.ufrgs.br/ufrgs/inicial).
 
 in the dusk everything is math.
 
